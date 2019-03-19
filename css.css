@@ -31,13 +31,27 @@ body {
   color: yellow;
 }
 
-#footer1 {
+#addressFooter {
   bottom: 30px;
   position: absolute;
 }
 
-#footer2 {
+#phoneFooter {
   position: absolute;
   bottom: 30px;
   left: 1680px;
+}
+
+#leftPillar {
+  float: left;
+  position: relative;
+  bottom: 525px;
+  left: 200px;
+}
+
+#rightPillar {
+  float: right;
+  position: relative;
+  bottom: 525px;
+  right: 200px;
 }
