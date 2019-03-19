@@ -19,7 +19,8 @@ body {
   margin: 0 auto;
   width: 600px;
   position: relative;
-  bottom: 80px;
+  bottom: -20px;
+  left: 225px;
   margin-bottom: -100px;
 }
 
