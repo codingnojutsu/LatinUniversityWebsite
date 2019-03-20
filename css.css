@@ -31,15 +31,16 @@ body {
 }
 
 #addressFooter {
-  bottom: 30px;
-  position: absolute;
+  position: relative;
+  top: 180px;
+  float: left;
   overflow: auto;
 }
 
 #phoneFooter {
-  position: absolute;
-  bottom: 30px;
-  left: 1680px;
+  position: relative;
+  top: 180px;
+  float: right;
   overflow: auto;
 }
 
