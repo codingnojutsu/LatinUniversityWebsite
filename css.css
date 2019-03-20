@@ -1,0 +1,38 @@
+body {
+  background-color: maroon;
+  margin-bottom: 1px;
+}
+
+.topHeading {
+  text-align: center;
+  color: white;
+}
+
+#introVideo {
+  display: block;
+  margin: 0 auto;
+  width: 600px;
+}
+
+#picture {
+  display: block;
+  margin: 0 auto;
+  width: 600px;
+  position: relative;
+  bottom: 80px;
+  margin-bottom: -100px;
+}
+
+#footer1 {
+  display: inline;
+  float: left;
+  color: yellow;
+  margin-bottom: 1px;
+}
+
+#footer2 {
+  display: inline;
+  float: right;
+  color: yellow;
+  margin-bottom: 1px;
+}
