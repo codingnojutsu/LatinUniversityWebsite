@@ -31,17 +31,15 @@ body {
 }
 
 #addressFooter {
-  position: relative;
-  top: 180px;
   float: left;
-  overflow: auto;
+  margin-left: 10px;
+  margin-top: 180px;
 }
 
 #phoneFooter {
-  position: relative;
-  top: 180px;
   float: right;
-  overflow: auto;
+  margin-right: 10px;
+  margin-top: 180px;
 }
 
 #leftPillar {
