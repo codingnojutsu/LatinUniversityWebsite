@@ -14,17 +14,16 @@ body {
   margin: 0 auto;
   border: 5px solid black;
   padding: 10px;
-  border-radius: 5px;
-  background-color: gray;
+  background-color: #ffb200;
 }
 
 #picture {
   display: block;
   margin: 0 auto;
   position: relative;
-  width: 600px;
+  width: 100px;
   bottom: -20px;
-  left: 225px;
+  left: 0px;
 }
 
 .footer {
@@ -54,4 +53,12 @@ body {
   float: right;
   margin-top: -525px;
   margin-right: 100px;
+}
+
+#venividivici {
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  bottom: -60px;
+  left: 15px;
 }
