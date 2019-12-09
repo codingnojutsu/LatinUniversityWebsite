@@ -9,6 +9,7 @@ body {
     font-family: sans-serif;
 }
 
+/*Index Page*/
 #introVideo {
     display: block;
     margin: 0 auto;
@@ -60,23 +61,30 @@ body {
     left: 15px;
 }
 
-li {
-    float: left;
-    background-color: black;
-}
-
+/*Navigation bar*/
 .navigationBar {
     margin: 0;
     padding: 0;
-}
-
-li a {
-    display: block;
+    float: left;
+    background-color: black;
+    list-style-type: none;
+    float: left;
+    display: inline;
     color: white;
     text-align: center;
     padding: 14px 16px;
 }
 
+#navigationName {
+    color: white;
+}
+
+.hoverEffect:hover {
+    background-color: gray;
+    color: white;
+}
+
+/*About Page*/
 #titleChad {
     text-align: center;
     color: white;
